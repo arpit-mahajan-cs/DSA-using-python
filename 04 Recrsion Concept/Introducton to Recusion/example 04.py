@@ -1,6 +1,6 @@
 
 
-# Exam#ple of recursion using parameters   [print 1 to N ]
+# Exam#ple of recursion using parameters   [print 1 to N ] in head
 
     
 def func(i,n):
